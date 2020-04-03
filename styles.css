@@ -1,0 +1,19 @@
+body {
+  color:red;
+}
+.chevrolet1 {
+  background-image: url("chevrolet.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:300px;
+  padding-bottom:300px;
+}
+.chevrolet2 {
+  background-image: url("flag.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:100px;
+  padding-bottom:100px;
+}
